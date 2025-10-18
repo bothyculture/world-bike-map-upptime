@@ -5,6 +5,8 @@ repo: world-bike-map-upptime # The name of this repository
 sites:
   - name: worldbikemap.com
     url: https://worldbikemap.com
+  - name: opencyclemap
+    url: https://a.tile.thunderforest.com/cycle/17/64402/40844@2x.png?apikey=49f65477e83d4c988d1cc6bb104ab64d
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -12,15 +14,14 @@ status-website:
   cname: status.worldbikemap.com
   # baseUrl: /your-repo-name
   logoUrl: https://worldbikemap.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.9f3e81c8.png&w=3840&q=75
-  name: Status
+  name: World Bike Map - Status Page
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is the status page for worldbikemap.com
   navbar:
-    - title: Status
-      href: /
     - title: Home
       href: https://worldbikemap.com
-
+    - title: Status
+      href: /
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
