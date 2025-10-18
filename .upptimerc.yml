@@ -15,8 +15,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://worldbikemap.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.9f3e81c8.png&w=3840&q=75
   name: World Bike Map - Status Page
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is the status page for worldbikemap.com
+  introTitle: "System Status"
+  introMessage: This is the status page for worldbikemap.com and the mobile apps
   navbar:
     - title: Home
       href: https://worldbikemap.com
