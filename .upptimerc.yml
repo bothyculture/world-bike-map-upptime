@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: bothyculture # Your GitHub organization or username, where this repository lives
+repo: world-bike-map-upptime # The name of this repository
 
 sites:
   - name: worldbikemap.com
@@ -18,14 +18,14 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://worldbikemap.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
 workflowSchedule:
-  # graphs: "0 0 * * *"
+  graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
