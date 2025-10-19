@@ -24,7 +24,7 @@ status-website:
       href: /
   themeUrl: https://worldbikemap.com/theme.css
   favicon: https://worldbikemap.com/favicon.ico
-    metaTags:
+  metaTags:
     - name: "color-scheme"
       content: "dark light"
     - name: "robots"
