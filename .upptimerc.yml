@@ -22,6 +22,13 @@ status-website:
       href: https://worldbikemap.com
     - title: Status
       href: /
+  themeUrl: https://worldbikemap.com/theme.css
+  favicon: https://worldbikemap.com/favicon.ico
+    metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
